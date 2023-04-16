@@ -1,5 +1,5 @@
 # getty-earnings
-A simple NodeJS library that allows you to get the amount of contributor earnings from Vecteezy.<br>
+A simple NodeJS library that allows you to get the amount of contributor earnings from Getty Images.<br>
 ### PLEASE NOTE: `This is not officially endorsed by Getty Images, or Getty Images Holdings, Inc. This is solely for educational and entertainment purposes. In addition, by using this software you agree that I will not be held responsible for your actions. This is not an official API, which also means it is slower than normal. Unfortunately, it could potentially take up to 60 seconds to get a valid response.`
 ❗❗❗ This package only contains ```.getEarnings(username, password)``` which is dervied from <a href="">this parent package</a>. 
 
