@@ -1,0 +1,28 @@
+{
+  "name": "getty-earnings",
+  "version": "1.0.0",
+  "description": "A simple NodeJS package that allows you to get the amount of earnings from Getty Image's Contributor page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evancgassman/getty-earnings.git"
+  },
+  "keywords": [
+    "getty",
+    "api",
+    "nightterror",
+    "nightmare"
+  ],
+  "author": "Evan Gassman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evancgassman/getty-earnings/issues"
+  },
+  "homepage": "https://github.com/evancgassman/getty-earnings#readme",
+  "dependencies": {
+    "nightterror": "^1.0.1"
+  }
+}
